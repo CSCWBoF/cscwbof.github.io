@@ -1,4 +1,5 @@
 # CSCW birds of a Feather (BoF) lunch sessions on the future of our international community
+## Tuesday, Feb 28th at the [2017 ACM CSCW conference](https://cscw.acm.org/2017) in Portland, Oregon
 
 Many of us in CSCW and related fields are concerned with the future of our international community of research and practice, given the current political climate in the United States and around the world. Like many of you, we have been having conversations about many different topics, including: the impact of immigration regulations on research, teaching, and conferences, the funding of research (both in our field and science more broadly), the role of CSCW systems in political action and discourse, inclusion and diversity (in many contexts), strategies for political mobilization and activism, actions professional associations can take, as well as how to build and sustain international perspectives in our community. 
 
