@@ -1,0 +1,10 @@
+# Site settings
+title: CSCW 2017 BoF
+tag_text: #cscwbof
+description:
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed

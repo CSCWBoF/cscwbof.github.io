@@ -1,9 +1,10 @@
-<br/>
-<br/>
+---
+layout: default
+---
 
-# CSCW birds of a Feather (BoF) lunch sessions on the future of our international community
+## CSCW birds of a Feather (BoF) lunch sessions on the future of our international community
 
-## Tuesday, Feb 28th at the [2017 ACM CSCW conference](https://cscw.acm.org/2017) in Portland, Oregon
+### Tuesday, Feb 28th at the [2017 ACM CSCW conference](https://cscw.acm.org/2017) in Portland, Oregon
 
 <br/>
 
@@ -13,4 +14,4 @@ We considered adding a panel or session to the main program on these topics, but
 
 We do not wish to constrain the topics of discussion, but we are particularly seeking volunteers to lead sessions that in some way involve a reflective discussion of how we as CSCW researchers and practitioners are engaging with issues of a broader impact in our institutions, communities, and world. We ask that BoF leaders begin with a short discussion of norms for the conversation (e.g. if public notes will be taken, if people can quote others) and that all participants adhere to the [ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct).
 
-This event is rapidly developing, and details about logistics (including how to lead or join a session) will soon be available here at cscwbof.org. In the meantime, we encourage you to brainstorm ideas for topics across various offline and online venues, including Twitter (with hashtags [#cscw2017 #cscwbof](https://twitter.com/search?f=tweets&q=%23cscw2017%20%23cscwbof&src=typd)), the [CSCW Community](https://www.facebook.com/acmCSCW/) or [CSCW Meta](https://www.facebook.com/groups/1395400460684366/) Facebook groups, and the [CSCW Slack channel](https://acmcscw.slack.com). A web-based sign-up sheet linked from cscwbof.org will be password-protected to protect the privacy of participants, and the password will later be e-mailed to conference attendees and printed in the program. Please contact Stuart Geiger <stuart at stuartgeiger dot com> if you have any questions, issues, or suggestions.
+This event is rapidly developing, and details about logistics (including how to lead or join a session) will soon be available here at cscwbof.org. In the meantime, we encourage you to brainstorm ideas for topics across various offline and online venues, including Twitter (with hashtags [#cscw2017 #cscwbof](https://twitter.com/search?f=tweets&q=%23cscw2017%20%23cscwbof&src=typd)), the [CSCW Community](https://www.facebook.com/acmCSCW/) or [CSCW Meta](https://www.facebook.com/groups/1395400460684366/) Facebook groups, and the [CSCW Slack channel](https://acmcscw.slack.com). A web-based sign-up sheet linked from cscwbof.org will be password-protected to protect the privacy of participants, and the password will later be e-mailed to conference attendees and printed in the program. Please contact Stuart Geiger (stuart at stuartgeiger dot com) if you have any questions, issues, or suggestions.
