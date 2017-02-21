@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## CSCW birds of a Feather (BoF) lunch sessions on the future of our international community
+## CSCW birds of a Feather (BoF) lunch sessions on the future of our international community & other issues of a broader impact
 
 ### Tuesday, Feb 28th at the [2017 ACM CSCW conference](https://cscw.acm.org/2017) in Portland, Oregon
 
