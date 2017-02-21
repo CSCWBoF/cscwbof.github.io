@@ -6,7 +6,9 @@ layout: default
 
 ### Tuesday, Feb 28th at the [2017 ACM CSCW conference](https://cscw.acm.org/2017) in Portland, Oregon
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLFlbPXbwVhXA9Q_wSfTj9dkjYl1VTUZ9b5QxIl0R-Yaq-2w/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+### [If you are interested in facilitating a discussion, please fill out this form](https://goo.gl/forms/ne4Bh4XXKHtwkoiu2)
+
+### About
 
 Many of us in CSCW and related fields are concerned with the future of our international community of research and practice, given the current political climate in the United States and around the world. Like many of you, we have been having conversations about many different topics, including: the impact of immigration regulations on research, teaching, and conferences, the funding of research (both in our field and science more broadly), the role of CSCW systems in political action and discourse, inclusion and diversity (in many contexts), strategies for political mobilization and activism, actions professional associations can take, as well as how to build and sustain international perspectives in our community. 
 
