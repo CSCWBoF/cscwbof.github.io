@@ -6,9 +6,9 @@ layout: default
 
 ### Tuesday, Feb 28th at the [2017 ACM CSCW conference](https://cscw.acm.org/2017) in Portland, Oregon
 
-This year at CSCW 2017, we are having Birds of a Feather lunch sessions for that small groups of 8-10 attendees can discuss various topics relating to the future of our international community & other issues of a broader impact. Any CSCW attendee can sign up to facilitate a session on a topic of their choosing, then other attendees can sign up. We will be helping make lunch reservations for groups at nearby resturants. 
+This year at CSCW 2017, we are having Birds of a Feather lunch sessions, so that small groups of 8-10 attendees can discuss various topics relating to the future of our international community & other issues of a broader impact. Any CSCW attendee can sign up to facilitate a session on a topic of their choosing, then other attendees can sign up to attend. We will be helping make lunch reservations for groups at nearby resturants. 
 
-### Sign up for sessions (as soon as possible!)
+### [Sign up for sessions](https://thinfi.com/0e3m) (as soon as possible!)
 
 [Use this link to sign up for sessions as a facilitator or attendee](https://thinfi.com/0e3m), following the instructions on the spreadsheet at that link. The password was e-mailed to all CSCW 2017 registered attendees on 23 Feb from Yvonne Lopez in an e-mail titled "CSCW 2017: Welcome to Portland!" Please contact Stuart Geiger <stuart at stuartgeiger dot com> if you did not receive it or are having issues. Please sign up by Monday at 5pm to ensure that we can help everyone make lunch reservations.
 
