@@ -6,7 +6,7 @@ layout: default
 
 ### Tuesday, Feb 28th at the [2017 ACM CSCW conference](https://cscw.acm.org/2017) in Portland, Oregon
 
-### [If you are interested in facilitating a discussion, please fill out this form](https://goo.gl/forms/ne4Bh4XXKHtwkoiu2)
+### [Use this link to sign up for sessions as a facilitator or attendee](https://thinfi.com/0e3m). The password was e-mailed to all CSCW 2017 registered attendees on 23 Feb from Yvonne Lopez. 
 
 ### About
 
