@@ -10,7 +10,7 @@ This year at CSCW 2017, we are having Birds of a Feather lunch sessions, so that
 
 ### [Sign up for sessions](https://thinfi.com/0e3m) (as soon as possible!)
 
-[Use this link to sign up for sessions as a facilitator or attendee](https://thinfi.com/0e3m), following the instructions on the spreadsheet at that link. The password was e-mailed to all CSCW 2017 registered attendees on 23 Feb from Yvonne Lopez in an e-mail titled "CSCW 2017: Welcome to Portland!" Please contact Stuart Geiger <stuart at stuartgeiger dot com> if you did not receive it or are having issues. Please sign up by Monday at 5pm to ensure that we can help everyone make lunch reservations.
+[Use this password-protected link to sign up for sessions as a facilitator or attendee](https://thinfi.com/0e3m), following the instructions on the spreadsheet at that link. The password was e-mailed to all CSCW 2017 registered attendees on 23 Feb from Yvonne Lopez in an e-mail titled "CSCW 2017: Welcome to Portland!" Please contact Stuart Geiger (stuart at stuartgeiger dot com) if you did not receive it or are having issues. Please sign up as soon as possible to ensure that we can help everyone make lunch reservations. Sessions that form later may have to make their own reservations, and we will have a deadline soon.
 
 ### Motivation
 
