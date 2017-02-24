@@ -6,7 +6,7 @@ layout: default
 
 ### Tuesday, Feb 28th at the [2017 ACM CSCW conference](https://cscw.acm.org/2017) in Portland, Oregon
 
-This year at CSCW 2017, we are having Birds of a Feather lunch sessions, so that small groups of 8-10 attendees can discuss various topics relating to the future of our international community & other issues of a broader impact. Any CSCW attendee can sign up to facilitate a session on a topic of their choosing, then other attendees can sign up to attend. We will be helping make lunch reservations for groups at nearby resturants. 
+This year at CSCW 2017, we are having Birds of a Feather lunch sessions, so that small groups of 8 attendees can discuss various topics relating to the future of our international community & other issues of a broader impact. Any CSCW attendee can sign up to facilitate a session on a topic of their choosing, then other attendees can sign up to attend. We will be helping make lunch reservations for groups at nearby resturants. 
 
 ### [Sign up for sessions](https://thinfi.com/0e3m) (as soon as possible!)
 
@@ -16,7 +16,7 @@ This year at CSCW 2017, we are having Birds of a Feather lunch sessions, so that
 
 Many of us in CSCW and related fields are concerned with the future of our international community of research and practice, given the current political climate in the United States and around the world. Like many of you, we have been having conversations about many different topics, including: the impact of immigration regulations on research, teaching, and conferences, the funding of research (both in our field and science more broadly), the role of CSCW systems in political action and discourse, inclusion and diversity (in many contexts), strategies for political mobilization and activism, actions professional associations can take, as well as how to build and sustain international perspectives in our community. 
 
-We considered adding a panel or session to the main program on these topics, but we wanted to make sure that all CSCW attendees could participate in these important and multifaceted conversations. We will therefore be coordinating Birds of a Feather (BoF) lunch sessions on Tuesday, Feb 28th. These sessions will be independently led by volunteer attendees, who will propose a topic or question for discussion over lunch. About 8-10 people will be able to sign up for each session -- having too many people can make it difficult to have a conversation.
+We considered adding a panel or session to the main program on these topics, but we wanted to make sure that all CSCW attendees could participate in these important and multifaceted conversations. We will therefore be coordinating Birds of a Feather (BoF) lunch sessions on Tuesday, Feb 28th. These sessions will be independently led by volunteer attendees, who will propose a topic or question for discussion over lunch. 
 
 We do not wish to constrain the topics of discussion, but we are particularly seeking volunteers to facilitate sessions that in some way involve a reflective discussion of how we as CSCW researchers and practitioners are engaging with issues of a broader impact in our institutions, communities, and world. We ask that BoF facilitators begin with a short discussion of norms for the conversation (e.g. if public notes will be taken, if people can quote others) and that all participants adhere to the [ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct).
 
