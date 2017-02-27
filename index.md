@@ -4,11 +4,13 @@ layout: default
 
 ## CSCW birds of a Feather (BoF) lunch sessions on the future of our international community & other issues of a broader impact
 
+### [Sign up for sessions here](https://itsssl.com/AEAJR) (as soon as possible!)
+
 ### Tuesday, Feb 28th at the [2017 ACM CSCW conference](https://cscw.acm.org/2017) in Portland, Oregon
 
 This year at CSCW 2017, we are having Birds of a Feather lunch sessions, so that small groups of 8 attendees can discuss various topics relating to the future of our international community & other issues of a broader impact. Any CSCW attendee can sign up to facilitate a session on a topic of their choosing, then other attendees can sign up to attend. We will be helping make lunch reservations for groups at nearby resturants. 
 
-### [Sign up for sessions](https://itsssl.com/AEAJR) (as soon as possible!)
+### [Sign up details](https://itsssl.com/AEAJR) (as soon as possible!)
 
 [Use this password-protected link to sign up for sessions as a facilitator or attendee](https://itsssl.com/AEAJR), following the instructions on the spreadsheet at that link. The password was e-mailed to all CSCW 2017 registered attendees on 23 Feb from Yvonne Lopez in an e-mail titled "CSCW 2017: Welcome to Portland!" The password is also in the printed program and in the [CSCW slack channel](https://acmcscw.slack.com). Please contact Stuart Geiger (stuart at stuartgeiger dot com) if you did not receive it or are having issues. Please sign up as soon as possible to ensure that we can help everyone make lunch reservations. Sessions that form later may have to make their own reservations, and we will have a deadline soon.
 
